@@ -16,3 +16,7 @@ Add below code to your Emacs configuration file (e.g, ~/.emacs.d/init.el)
 
 ```
 
+## Prerequisite (if you never used `nim-mode' before)
+
+Please read `nim-mode's README.md and install nimsuggest and
+configure for it.  This package depend on the nimsuggest future.
